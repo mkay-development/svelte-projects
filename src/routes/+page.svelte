@@ -123,7 +123,9 @@
         />
         <h3 class="py-2 text-center font-bold">{project.name}</h3>
         <p class="text-center">Development: <a href=https://{project.dev} class="text-blue-600 text-center block">{project.dev}</a></p>
+        {#if project.live}
         <p class="text-center">Live: <a href=https://{project.live} class="text-blue-600 text-center block">{project.live}</a></p>
+        {/if}
       </section>
     </div>
   {/each}
