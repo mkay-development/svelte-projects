@@ -79,8 +79,8 @@
       tags: ['svelte', 'vite']
     },
     {
-      name: "Pütchens Getränkecenter",
-      dev: "pütchens.mkay-development.de",
+      name: "Pützchens Getränkecenter",
+      dev: "pützchens.mkay-development.de",
       // live: 'www.puria-bigdali.de',
       tags: ['svelte', 'vite']
     },
