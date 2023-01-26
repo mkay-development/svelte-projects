@@ -93,7 +93,7 @@
   ];
 </script>
 
-<h2 class="font-bold">Projekte Seite MkaY Development</h2>
+<h2 class="font-bold text-white">Projekte Seite MkaY Development</h2>
 <div class="grid grid-cols-6 gap-3 mt-5">
   <div class="col-span-6 md:col-span-2">
     <section class="card bg-white px-2 py-2 border border-black">
@@ -112,7 +112,7 @@
   </div>
 </div>
 
-<h2 class="font-bold text-lg mt-5">Kunden Projekte</h2>
+<h2 class="font-bold text-lg mt-5 text-white">Kunden Projekte</h2>
 <div class="grid grid-cols-6 mt-5 gap-3">
   {#each projects as project}
     <div class="col-span-6 md:col-span-2">
