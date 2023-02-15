@@ -38,13 +38,13 @@
     },
     {
       name: "Guidos Studio",
-      dev: "guidos.mkay-development.de",
+      dev: "guidos.mkay.dev",
       live: 'www.guidos.studio',
       tags: ['vuejs', 'vite', 'laravel']
     },
     {
       name: "Primetime",
-      dev: "primetime.mkay-development.de",
+      dev: "primetime.mkay.dev",
       // live: 'www.puria-bigdali.de',
       tags: ['vuejs', 'vite']
     },
